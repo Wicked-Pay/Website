@@ -1,0 +1,6 @@
+---
+title: "WickedPay"
+---
+
+Wicked Pay is a service that helps you maximize your credit card rewards (points, miles and cashbacks) by suggesting you the best card to use before your purchase.
+
